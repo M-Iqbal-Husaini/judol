@@ -1,6 +1,7 @@
-pyTelegramBotAPI==4.15.2
+pyTelegramBotAPI
+tensorflow
 tensorflow-cpu
-keras==2.13.1
-numpy==1.23.5
-sastrawi==1.0.1
-pandas==1.5.3
+keras
+numpy
+sastrawi
+pandas
