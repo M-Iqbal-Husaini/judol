@@ -12,7 +12,7 @@ from tensorflow.keras.callbacks import EarlyStopping # Penting untuk load model
 # === KONFIGURASI BOT ===
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 # Pastikan nama file model dan tokenizer sesuai dengan yang disimpan
-MODEL_PATH = "judi.h5"
+MODEL_PATH = "judi.keras"
 TOKENIZER_PATH = "judi.pkl"
 
 # === LOAD MODEL & TOKENIZER ===
