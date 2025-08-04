@@ -1,5 +1,5 @@
 pyTelegramBotAPI==4.15.2
-tensorflow==2.13.0
+tensorflow-cpu
 keras==2.13.1
 numpy==1.23.5
 sastrawi==1.0.1
