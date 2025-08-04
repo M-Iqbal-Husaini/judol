@@ -79,4 +79,5 @@ def handle_message(msg):
         # bot.reply_to(msg, f"✅ Aman. (Prob: {pred:.2f})", parse_mode="Markdown")
     
 print("🤖 Bot aktif...")
+bot.remove_webhook()
 bot.infinity_polling()
